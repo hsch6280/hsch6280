@@ -1,7 +1,7 @@
 # Hello, I'm Summer Choi
 
 # 💫 About Me:
-Hello, my name is Summer Choi and I'm a senior at the University of Iowa
+Hello, my name is Summer Choi and I'm a senior at the University of Iowa majoring in Computer Science and Mathematics.
 
 
 ## 🌐 Socials:
