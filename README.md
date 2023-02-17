@@ -1,7 +1,7 @@
 # Hello, I'm Summer Choi
 
 # 💫 About Me:
-Hello, my name is Summer Choi and I'm a senior at the University of Iowa majoring in Computer Science and Mathematics.
+Hello, my name is Summer Choi and I am a senior at the University of Iowa pursuing a dual degree in Computer Science and Mathematics, with a minor in Art. I have a passion for problem solving and utilizing my creativity to find innovative solutions. As I approach graduation, I am actively seeking a career in the computer field where I can apply my skills and bring a unique perspective to the industry. My goal is to blend my technical expertise with my artistic background to make a meaningful impact in the field. I am excited to connect and explore opportunities where I can make a difference.
 
 
 ## 🌐 Socials:
